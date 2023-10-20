@@ -1,2 +1,2 @@
 # Ping_pong
-Ping pong game
+classic Ping pong game. 
